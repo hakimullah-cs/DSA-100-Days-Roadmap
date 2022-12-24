@@ -1,0 +1,5 @@
+1.Addition of Two Numbers?
+2.Calculate Simple Intrest?
+3.determine a<b?
+4.Is n is postive,Negative or zero?
+5.Print number from 1 to 5?
